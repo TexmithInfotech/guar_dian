@@ -4,6 +4,12 @@
 p {
   padding: 16px;
 }
+.para_class{
+overflow-y: auto;
+max-height: 185px;
+
+
+}
 .previous {
   opacity: 0.6;
 
